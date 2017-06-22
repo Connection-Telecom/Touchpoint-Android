@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Touchpoint</string>
+    <string name="sendButtonText">Send</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="widgetUri">https://touchpoint-widget.telviva.com/114ee794-7332-4780-b8c3-2fd8583eef5e/widget.html</string>
+    <string name="channelsUri">https://touchpoint.telviva.com/api/customers/tDNRFKYYtyrAnhais/teams/Test/channels</string>
+    <string name="noAgentsMessage">Sorry, no agents are available right now. Please try again later.</string>
+    <string name="errorMessage">Sorry, an error occurred. Please try again later.</string>
+    <string name="customer">tDNRFKYYtyrAnhais</string>
+    <string name="team">Test</string>
+    <string name="agentIsTypingMessage">Agent is typing...</string>
+</resources>
